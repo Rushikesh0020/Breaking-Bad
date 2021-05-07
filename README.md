@@ -1,70 +1,28 @@
-# Getting Started with Create React App
+# Breaking-Bad
+Made using React.js and Breaking Bad API 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Better Call Saul Data!🕵🏻📊🧩<br>
+WebApp Link to see live ⮕[Demo](https://breaking-bad-rushikesh-patil.netlify.app/) </br>
+This site was built using ⮕[Netlify](https://app.netlify.com/)</br>
 
-## Available Scripts
+**Topics Covered:** 
+  </br>
+  - States </br>
+  - Props </br>
+  - Functional Components</br>
+  - Queries
+  - Search Component
+  - useState & App State
+  - useEffect & HTTP Request
 
-In the project directory, you can run:
 
-### `npm start`
+<hr>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+**Breaking Bad : A Short Summary on One of My Favorite TV Series**
+   * Be it the transformation from high school chemistry teacher Walter White to the drug kingpin Heisenberg, or his accomplice and former student Jesse Pinkman transforming from a low-level street drug dealer to working under cartels, Breaking Bad progresses and develops its characters in a terrific way. Googling anything related to Breaking Bad would yield image results of Cranston’s character in his iconic and fierce-looking French cut beard and shaved head, but in the first season, he’s just your average looking middle-class family man wearing bright coloured clothes. Over the seasons, he develops a menacing personality as money slowly takes over him and he starts distancing himself from his family to focus more on his skills as a methamphetamine manufacturer. By the end of the second season, he is a distant shadow of his former self and by the time the series ends he becomes a totally different person (literally and figuratively). Jesse Pinkman, DEA Agent/ASAC Shrader and even his family develop in various ways in response to the events that take their life by storm. 
+   * A number of shows earn so much critical acclaim during their initial seasons that they just tend to ride on that success and forget about delivering a satisfying conclusion that fans seek. (*cough Game of Thrones *cough*). Breaking Bad not only delivers a powerful ultimate episode, but it also delivers equally amazing antepenultimate and penultimate episodes. Its antepenultimate episode “Ozymandias”, is regarded as the greatest episode in TV history, and has won multiple Emmy awards while maintaining a solid 10/10 rating on IMDb. The final episode “Felina” is again, widely hailed as the greatest conclusion to any TV series ever as it draws the series to a fitting conclusion to the tunes of Badfinger. 
 
-### `npm test`
+**Web App Screenshot**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Breaking Bad Cas](https://user-images.githubusercontent.com/63740798/117445238-16d56a00-af58-11eb-84a4-2cd0ed034801.png)
